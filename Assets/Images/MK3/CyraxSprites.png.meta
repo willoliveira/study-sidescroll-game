@@ -1,0 +1,3477 @@
+fileFormatVersion: 2
+guid: 2e784536454485549ba8c95bc7e1aca5
+timeCreated: 1447432194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CyraxSprites_0
+    21300002: CyraxSprites_1
+    21300004: CyraxSprites_2
+    21300006: CyraxSprites_3
+    21300008: CyraxSprites_4
+    21300010: CyraxSprites_5
+    21300012: CyraxSprites_6
+    21300014: CyraxSprites_7
+    21300016: CyraxSprites_8
+    21300018: CyraxSprites_9
+    21300020: CyraxSprites_10
+    21300022: CyraxSprites_11
+    21300024: CyraxSprites_12
+    21300026: CyraxSprites_13
+    21300028: CyraxSprites_14
+    21300030: CyraxSprites_15
+    21300032: CyraxSprites_16
+    21300034: CyraxSprites_17
+    21300036: CyraxSprites_18
+    21300038: CyraxSprites_19
+    21300040: CyraxSprites_20
+    21300042: CyraxSprites_21
+    21300044: CyraxSprites_22
+    21300046: CyraxSprites_23
+    21300048: CyraxSprites_24
+    21300050: CyraxSprites_25
+    21300052: CyraxSprites_26
+    21300054: CyraxSprites_27
+    21300056: CyraxSprites_28
+    21300058: CyraxSprites_29
+    21300060: CyraxSprites_30
+    21300062: CyraxSprites_31
+    21300064: CyraxSprites_32
+    21300066: CyraxSprites_33
+    21300068: CyraxSprites_34
+    21300070: CyraxSprites_35
+    21300072: CyraxSprites_36
+    21300074: CyraxSprites_37
+    21300076: CyraxSprites_38
+    21300078: CyraxSprites_39
+    21300080: CyraxSprites_40
+    21300082: CyraxSprites_41
+    21300084: CyraxSprites_42
+    21300086: CyraxSprites_43
+    21300088: CyraxSprites_44
+    21300090: CyraxSprites_45
+    21300092: CyraxSprites_46
+    21300094: CyraxSprites_47
+    21300096: CyraxSprites_48
+    21300098: CyraxSprites_49
+    21300100: CyraxSprites_50
+    21300102: CyraxSprites_51
+    21300104: CyraxSprites_52
+    21300106: CyraxSprites_53
+    21300108: CyraxSprites_54
+    21300110: CyraxSprites_55
+    21300112: CyraxSprites_56
+    21300114: CyraxSprites_57
+    21300116: CyraxSprites_58
+    21300118: CyraxSprites_59
+    21300120: CyraxSprites_60
+    21300122: CyraxSprites_61
+    21300124: CyraxSprites_62
+    21300126: CyraxSprites_63
+    21300128: CyraxSprites_64
+    21300130: CyraxSprites_65
+    21300132: CyraxSprites_66
+    21300134: CyraxSprites_67
+    21300136: CyraxSprites_68
+    21300138: CyraxSprites_69
+    21300140: CyraxSprites_70
+    21300142: CyraxSprites_71
+    21300144: CyraxSprites_72
+    21300146: CyraxSprites_73
+    21300148: CyraxSprites_74
+    21300150: CyraxSprites_75
+    21300152: CyraxSprites_76
+    21300154: CyraxSprites_77
+    21300156: CyraxSprites_78
+    21300158: CyraxSprites_79
+    21300160: CyraxSprites_80
+    21300162: CyraxSprites_81
+    21300164: CyraxSprites_82
+    21300166: CyraxSprites_83
+    21300168: CyraxSprites_84
+    21300170: CyraxSprites_85
+    21300172: CyraxSprites_86
+    21300174: CyraxSprites_87
+    21300176: CyraxSprites_88
+    21300178: CyraxSprites_89
+    21300180: CyraxSprites_90
+    21300182: CyraxSprites_91
+    21300184: CyraxSprites_92
+    21300186: CyraxSprites_93
+    21300188: CyraxSprites_94
+    21300190: CyraxSprites_95
+    21300192: CyraxSprites_96
+    21300194: CyraxSprites_97
+    21300196: CyraxSprites_98
+    21300198: CyraxSprites_99
+    21300200: CyraxSprites_100
+    21300202: CyraxSprites_101
+    21300204: CyraxSprites_102
+    21300206: CyraxSprites_103
+    21300208: CyraxSprites_104
+    21300210: CyraxSprites_105
+    21300212: CyraxSprites_106
+    21300214: CyraxSprites_107
+    21300216: CyraxSprites_108
+    21300218: CyraxSprites_109
+    21300220: CyraxSprites_110
+    21300222: CyraxSprites_111
+    21300224: CyraxSprites_112
+    21300226: CyraxSprites_113
+    21300228: CyraxSprites_114
+    21300230: CyraxSprites_115
+    21300232: CyraxSprites_116
+    21300234: CyraxSprites_117
+    21300236: CyraxSprites_118
+    21300238: CyraxSprites_119
+    21300240: CyraxSprites_120
+    21300242: CyraxSprites_121
+    21300244: CyraxSprites_122
+    21300246: CyraxSprites_123
+    21300248: CyraxSprites_124
+    21300250: CyraxSprites_125
+    21300252: CyraxSprites_126
+    21300254: CyraxSprites_127
+    21300256: CyraxSprites_128
+    21300258: CyraxSprites_129
+    21300260: CyraxSprites_130
+    21300262: CyraxSprites_131
+    21300264: CyraxSprites_132
+    21300266: CyraxSprites_133
+    21300268: CyraxSprites_134
+    21300270: CyraxSprites_135
+    21300272: CyraxSprites_136
+    21300274: CyraxSprites_137
+    21300276: CyraxSprites_138
+    21300278: CyraxSprites_139
+    21300280: CyraxSprites_140
+    21300282: CyraxSprites_141
+    21300284: CyraxSprites_142
+    21300286: CyraxSprites_143
+    21300288: CyraxSprites_144
+    21300290: CyraxSprites_145
+    21300292: CyraxSprites_146
+    21300294: CyraxSprites_147
+    21300296: CyraxSprites_148
+    21300298: CyraxSprites_149
+    21300300: CyraxSprites_150
+    21300302: CyraxSprites_151
+    21300304: CyraxSprites_152
+    21300306: CyraxSprites_153
+    21300308: CyraxSprites_154
+    21300310: CyraxSprites_155
+    21300312: CyraxSprites_156
+    21300314: CyraxSprites_157
+    21300316: CyraxSprites_158
+    21300318: CyraxSprites_159
+    21300320: CyraxSprites_160
+    21300322: CyraxSprites_161
+    21300324: CyraxSprites_162
+    21300326: CyraxSprites_163
+    21300328: CyraxSprites_164
+    21300330: CyraxSprites_165
+    21300332: CyraxSprites_166
+    21300334: CyraxSprites_167
+    21300336: CyraxSprites_168
+    21300338: CyraxSprites_169
+    21300340: CyraxSprites_170
+    21300342: CyraxSprites_171
+    21300344: CyraxSprites_172
+    21300346: CyraxSprites_173
+    21300348: CyraxSprites_174
+    21300350: CyraxSprites_175
+    21300352: CyraxSprites_176
+    21300354: CyraxSprites_177
+    21300356: CyraxSprites_178
+    21300358: CyraxSprites_181
+    21300360: CyraxSprites_182
+    21300362: CyraxSprites_183
+    21300364: CyraxSprites_184
+    21300366: CyraxSprites_185
+    21300368: CyraxSprites_186
+    21300370: CyraxSprites_187
+    21300372: CyraxSprites_188
+    21300374: CyraxSprites_189
+    21300376: CyraxSprites_190
+    21300378: CyraxSprites_192
+    21300380: CyraxSprites_193
+    21300382: CyraxSprites_195
+    21300384: CyraxSprites_199
+    21300386: CyraxSprites_201
+    21300388: CyraxSprites_204
+    21300390: CyraxSprites_205
+    21300392: CyraxSprites_206
+    21300394: CyraxSprites_207
+    21300396: CyraxSprites_208
+    21300398: CyraxSprites_209
+    21300400: CyraxSprites_210
+    21300402: CyraxSprites_211
+    21300404: CyraxSprites_212
+    21300406: CyraxSprites_213
+    21300408: CyraxSprites_214
+    21300410: CyraxSprites_215
+    21300412: CyraxSprites_216
+    21300414: CyraxSprites_217
+    21300416: CyraxSprites_218
+    21300418: CyraxSprites_219
+    21300420: CyraxSprites_220
+    21300422: CyraxSprites_221
+    21300424: CyraxSprites_222
+    21300426: CyraxSprites_223
+    21300428: CyraxSprites_224
+    21300430: CyraxSprites_225
+    21300432: CyraxSprites_226
+    21300434: CyraxSprites_227
+    21300436: CyraxSprites_228
+    21300438: CyraxSprites_229
+    21300440: CyraxSprites_230
+    21300442: CyraxSprites_231
+    21300444: CyraxSprites_232
+    21300446: CyraxSprites_233
+    21300448: CyraxSprites_234
+    21300450: CyraxSprites_235
+    21300452: CyraxSprites_236
+    21300454: CyraxSprites_237
+    21300456: CyraxSprites_238
+    21300458: CyraxSprites_239
+    21300460: CyraxSprites_240
+    21300462: CyraxSprites_241
+    21300464: CyraxSprites_242
+    21300466: CyraxSprites_243
+    21300468: CyraxSprites_244
+    21300470: CyraxSprites_245
+    21300472: CyraxSprites_246
+    21300474: CyraxSprites_247
+    21300476: CyraxSprites_250
+    21300478: CyraxSprites_251
+    21300480: CyraxSprites_255
+    21300482: CyraxSprites_256
+    21300484: CyraxSprites_257
+    21300486: CyraxSprites_258
+    21300488: CyraxSprites_259
+    21300490: CyraxSprites_260
+    21300492: CyraxSprites_261
+    21300494: CyraxSprites_262
+    21300496: CyraxSprites_263
+    21300498: CyraxSprites_264
+    21300500: CyraxSprites_265
+    21300502: CyraxSprites_266
+    21300504: CyraxSprites_267
+    21300506: CyraxSprites_268
+    21300508: CyraxSprites_269
+    21300510: CyraxSprites_270
+    21300512: CyraxSprites_271
+    21300514: CyraxSprites_272
+    21300516: CyraxSprites_273
+    21300518: CyraxSprites_274
+    21300520: CyraxSprites_275
+    21300522: CyraxSprites_276
+    21300524: CyraxSprites_277
+    21300526: CyraxSprites_278
+    21300528: CyraxSprites_279
+    21300530: CyraxSprites_280
+    21300532: CyraxSprites_281
+    21300534: CyraxSprites_282
+    21300536: CyraxSprites_283
+    21300538: CyraxSprites_288
+    21300540: CyraxSprites_289
+    21300542: CyraxSprites_290
+    21300544: CyraxSprites_291
+    21300546: CyraxSprites_292
+    21300548: CyraxSprites_298
+    21300550: CyraxSprites_303
+    21300552: CyraxSprites_310
+    21300554: CyraxSprites_311
+    21300556: CyraxSprites_316
+    21300558: CyraxSprites_317
+    21300560: CyraxSprites_319
+    21300562: CyraxSprites_327
+    21300564: CyraxSprites_328
+    21300566: CyraxSprites_329
+    21300568: CyraxSprites_332
+    21300570: CyraxSprites_333
+    21300572: CyraxSprites_340
+    21300574: CyraxSprites_341
+    21300576: CyraxSprites_342
+    21300578: CyraxSprites_346
+    21300580: CyraxSprites_351
+    21300582: CyraxSprites_352
+    21300584: CyraxSprites_358
+    21300586: CyraxSprites_359
+    21300588: CyraxSprites_360
+    21300590: CyraxSprites_361
+    21300592: CyraxSprites_362
+    21300594: CyraxSprites_363
+    21300596: CyraxSprites_364
+    21300598: CyraxSprites_365
+    21300600: CyraxSprites_366
+    21300602: CyraxSprites_367
+    21300604: CyraxSprites_368
+    21300606: CyraxSprites_369
+    21300608: CyraxSprites_370
+    21300610: CyraxSprites_371
+    21300612: CyraxSprites_372
+    21300614: CyraxSprites_373
+    21300616: CyraxSprites_179
+    21300618: CyraxSprites_180
+    21300620: CyraxSprites_191
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CyraxSprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1685
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1685
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1685
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1685
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1685
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1685
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1685
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1685
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1685
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1685
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1685
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1685
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1685
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1685
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1685
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1685
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_16
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1685
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_17
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1685
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1575
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1575
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1575
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1575
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1575
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1575
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1575
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1575
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1575
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1575
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_28
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1575
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1575
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1575
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1575
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_32
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1575
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_33
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1575
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1575
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1575
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1575
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1575
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_38
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1575
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_39
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1575
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_40
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1575
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1449
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1449
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1449
+        width: 37
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1449
+        width: 36
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1449
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1449
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_47
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1449
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1449
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_50
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1449
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_51
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1449
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1449
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1449
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1331
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1331
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1331
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1331
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1331
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1331
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1331
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_61
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1331
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1331
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_63
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1331
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1331
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_65
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1331
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_66
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1331
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1331
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_68
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1331
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_69
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1331
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_70
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1331
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_71
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1331
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_72
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1331
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_73
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1331
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_74
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1331
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1217
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_76
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1217
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1217
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1217
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1217
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_80
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1217
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_81
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1217
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1217
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_83
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1217
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_84
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1217
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_85
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1217
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_86
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1217
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1094
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_88
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1094
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1094
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_90
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1094
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_91
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1094
+        width: 35
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_92
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1094
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1094
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1094
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_95
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1094
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_96
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1094
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_97
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1094
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_98
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1094
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1094
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_100
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1094
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_101
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1094
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_102
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 988
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 988
+        width: 35
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 988
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 988
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 988
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 988
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_108
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 988
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 988
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_110
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 988
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_111
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 988
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_112
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 988
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_113
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 988
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_114
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 988
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_115
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 988
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_116
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 862
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_117
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 862
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 862
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_119
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 862
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_120
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 862
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_121
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 862
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_122
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 862
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_123
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 862
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 862
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_125
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 862
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_126
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 862
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_127
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 862
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_128
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 862
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_129
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 862
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_130
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 862
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_131
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 862
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_132
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 862
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_133
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 862
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_134
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 862
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_135
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 862
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_136
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 862
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_137
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 862
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_138
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 862
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_139
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 751
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_140
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 751
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_141
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 751
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_142
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 751
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_143
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 751
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_144
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 751
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_145
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 751
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_146
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 751
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_147
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 751
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_148
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 751
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_149
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 751
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_150
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 751
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_151
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 751
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_152
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 751
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_153
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 751
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_154
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 751
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_155
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 751
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_156
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 642
+        width: 16
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_157
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 642
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_158
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_159
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 642
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_160
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 642
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_161
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 642
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_162
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 642
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_163
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 642
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_164
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 642
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_165
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 642
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_166
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 642
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_167
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 642
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_168
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 642
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_169
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 642
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_170
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 642
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_171
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 642
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_172
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 642
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_173
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 642
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_174
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 642
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 507
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_176
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 507
+        width: 50
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_177
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 507
+        width: 50
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_178
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 507
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_181
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 507
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_182
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 507
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_183
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 507
+        width: 33
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_184
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 507
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_185
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 507
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_186
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 507
+        width: 37
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_187
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 507
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_188
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 507
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_189
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 507
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_190
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 507
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_192
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 507
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_193
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 507
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_195
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 573
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_199
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 507
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_201
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 507
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_204
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 507
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_205
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_206
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_207
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_208
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_209
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_210
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 507
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_211
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 380
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_212
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 380
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_213
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 36
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_214
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 380
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 258
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_216
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 380
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_217
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 380
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_218
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 380
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_219
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 380
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_220
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 380
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_221
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 380
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_222
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 380
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_223
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 380
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_224
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 380
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_225
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 380
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_226
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 414
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_227
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 380
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_228
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 392
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_229
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 380
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_230
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 403
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_231
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 388
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_232
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 258
+        width: 77
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_233
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 380
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_234
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 380
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_235
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 380
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_236
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 380
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_237
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 380
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_238
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 380
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_239
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 387
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_240
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 380
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_241
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 380
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_242
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 258
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_243
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 258
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_244
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_245
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 258
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_246
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 258
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_247
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 258
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_250
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 258
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_251
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 258
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_255
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 125
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_256
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 258
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_257
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 258
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_258
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 258
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_259
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 258
+        width: 42
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_260
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 258
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_261
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 258
+        width: 50
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_262
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 258
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_263
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 258
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_264
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 258
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_265
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 258
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_266
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 258
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_267
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 125
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_268
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 125
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_269
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 125
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_270
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_271
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 125
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_272
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 125
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_273
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 125
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_274
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 125
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_275
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 125
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_276
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 125
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_277
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 125
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_278
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 125
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_279
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 125
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_280
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 125
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_281
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 125
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_282
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 125
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_283
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 125
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_288
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_289
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_290
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_291
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 10
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_292
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 10
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_298
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 10
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_303
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_310
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 10
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_311
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 24
+        width: 248
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_316
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 10
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_317
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_319
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_327
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_328
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_329
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 10
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_332
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_333
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 10
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_340
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 10
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_341
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 10
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_342
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 10
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_346
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 10
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_351
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_352
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_358
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_359
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_360
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_361
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_362
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_363
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_364
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_365
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 12
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_366
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_367
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_368
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_369
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_370
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_371
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_372
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_373
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_180
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyraxSprites_191
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 11
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
