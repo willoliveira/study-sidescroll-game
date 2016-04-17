@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Nodes>
+    <DialogueNode>
+      <Id>0</Id>
+      <Text>Hi</Text>
+      <Options>
+        <DialogueOptions>
+          <Action>NoneAction</Action>
+          <Text>Hi! How you doing?</Text>
+          <NextNodeId>1</NextNodeId>
+        </DialogueOptions>
+        <DialogueOptions>
+          <Action>ExitDialogue</Action>
+          <Text>Bye</Text>
+          <NextNodeId></NextNodeId>
+        </DialogueOptions>
+      </Options>
+    </DialogueNode>
+    
+    <DialogueNode>
+      <Id>1</Id>
+      <Text>Fine!</Text>
+      <Options>
+        <DialogueOptions>
+          <Action>NoneAction</Action>
+          <Text>Good</Text>
+          <NextNodeId></NextNodeId>
+        </DialogueOptions>
+        <DialogueOptions>
+          <Action>ExitDialogue</Action>
+          <Text>Bye</Text>
+          <NextNodeId></NextNodeId>
+        </DialogueOptions>
+      </Options>
+    </DialogueNode>
+  </Nodes>
+</Dialogue>
