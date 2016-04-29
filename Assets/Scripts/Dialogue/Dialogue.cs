@@ -20,8 +20,6 @@ public class Dialogue : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("start");
-
         //add a node
         DialogueNode dialogueNode1 = new DialogueNode(1, "OI!");
         DialogueNode dialogueNode2 = new DialogueNode(1, "SIM!");
@@ -37,8 +35,8 @@ public class Dialogue : MonoBehaviour
         addNode(dialogueNode2);
         addNode(dialogueNode3);
 
-        addOption(dialogueNode1, new DialogueOption[] { dialogueOption1, dialogueOption2 } );
-        addOption(dialogueNode2, new DialogueOption[] { dialogueOption3, dialogueOption4 } );
+        //addOption(dialogueNode1, new DialogueOption[] { dialogueOption1, dialogueOption2 } );
+        //addOption(dialogueNode2, new DialogueOption[] { dialogueOption3, dialogueOption4 } );
 
         createDialog();
     }

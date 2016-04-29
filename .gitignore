@@ -19,6 +19,7 @@ obj/
 *.unityproj
 *.booproj
 .vs/
+Assets/Standard Assets
 
 # ============ #
 # OS generated #

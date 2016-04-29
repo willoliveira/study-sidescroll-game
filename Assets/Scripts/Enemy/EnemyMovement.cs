@@ -1,34 +1,33 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EnemyMovement : DefaultMovement
+namespace Movement
 {
-    void Start()
+    [RequireComponent(typeof(BaseMovement))]
+    public class EnemyMovement : MonoBehaviour
     {
-        facingRight = false;
-    }
+        private BaseMovement m_Character;
+        private float h = 1f;
+        private SpriteRenderer sR; 
 
-    protected override float getAxis()
-    {
-        return facingRight ? 1f : -1f;
-    }
-
-    void OnTriggerEnter2D(Collider2D coll)
-    {
-        if (coll.gameObject.tag == "Wall")
+        private void Awake()
         {
-            //Inverte a direção
-            Flip();
+            m_Character = GetComponent<BaseMovement>();
+            sR = GetComponent<SpriteRenderer>();
         }
-    }
 
-    void Flip()
-    {
-        // Switch the way the player is labelled as facing.
-        facingRight = !facingRight;
-        // Multiply the player's x local scale by -1.
-        Vector3 theScale = transform.localScale;
-        theScale.x *= -1;
-        transform.localScale = theScale;
+        private void FixedUpdate()
+        {
+            // Pass all parameters to the character control script.
+            m_Character.Move(h, false, false);
+        }
+
+        void OnTriggerEnter2D(Collider2D coll)
+        {
+            if (coll.gameObject.tag == "Wall")
+            {
+                h = m_Character.m_FacingRight ? -1f : 1f;
+            }
+        }        
     }
 }

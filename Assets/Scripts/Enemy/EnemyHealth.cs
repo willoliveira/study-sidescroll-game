@@ -5,7 +5,6 @@ using System.Collections;
 public class EnemyHealth : DefaultHealth
 {
 
-    //Inimigo
     public Text EnemyName;
     private BoxCollider2D[] bCollider2D;
     protected override void Awake()

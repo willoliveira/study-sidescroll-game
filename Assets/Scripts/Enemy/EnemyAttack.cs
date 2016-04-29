@@ -8,17 +8,15 @@ public class EnemyAttack : MonoBehaviour {
     private PlayerHealth pHealth;
 
     // Use this for initialization
-    void Start() {
+    void Start()
+    {
         pHealth = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
     }
 
-    // Update is called once per frame
-    void Update() {
-
-    }
-
-    void OnTriggerEnter2D(Collider2D coll) {
-        if (coll.gameObject.tag == "Player") {
+    void OnTriggerEnter2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Player")
+        {
             pHealth = coll.gameObject.GetComponent<PlayerHealth>();
             pHealth.TakeDamage(damageTouch);
         }

@@ -1,70 +1,50 @@
-﻿using UnityEngine;
-using System;
+﻿using System;
+using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
-public class PlayerMovement : DefaultMovement
+namespace Movement
 {
-    public float jumpForce;         // Amount of force added when the player jumps.
-    public PlayerHealth PlayerHealthInstance;
-
-    private Transform groundCheck;
-    private bool jump = false;
-    private bool canDoubleJump = false;
-    private bool doubleJump = false;
-    private bool grounded = false;
-    private bool click = false;
-
-    protected override void Awake()
+    [RequireComponent(typeof(BaseMovement))]
+    public class PlayerMovement : MonoBehaviour
     {
-        base.Awake();
-        //ground check do personagem
-        groundCheck = transform.Find("groundCheck");
-    }
+        private BaseMovement m_Character;
+        private bool m_Jump;
+        private bool m_DoubleJump;
 
-    // Update is called once per frame
-    void Update()
-    {
-        grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
-        if (canMove && Input.GetButtonDown("Jump") && grounded)
+        [HideInInspector]
+        public bool canMove = true;
+
+        private void Awake()
         {
-            jump = true;
-            //Varia
-            doubleJump = false;
-            canDoubleJump = false;
+            m_Character = GetComponent<BaseMovement>();
         }
-        if (canMove && Input.GetButtonDown("Jump") && canDoubleJump)
-            doubleJump = true;
-    }
 
-    protected override float getAxis()
-    {
-        return Input.GetAxis("Horizontal");
-    }
-
-    protected override void FixedUpdate()
-    {
-        //Chama o fixed update
-        base.FixedUpdate();
-        //Se puder pular
-        if (jump)
+        private void Update()
         {
-            // Set the Jump animator trigger parameter.
-            anim.SetTrigger("Jump");
-            // Add a vertical force to the player.
-            rgd2D.AddForce(new Vector2(0f, jumpForce));
-            //Double jump
-            canDoubleJump = true;
-            // Make sure the player can't jump again until the jump conditions from Update are satisfied.
-            jump = false;
+            if (!m_Jump)
+            {
+                // Read the jump input in Update so button presses aren't missed.
+                m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+                //if (m_Character.canDoubleJump)
+                //{
+                //    Debug.Log("entra aqui");
+                //    m_Character.m_DoubleJump = true;
+                //}
+                //Debug.Log(m_Character.canDoubleJump);
+            }
         }
-        //Se puder o double jump
-        if (doubleJump)
+
+        private void FixedUpdate()
         {
-            //Seta para false o double jump
-            canDoubleJump = false;
-            doubleJump = false;
-            // Set the Jump animator trigger parameter.
-            anim.SetTrigger("Jump");
-            rgd2D.AddForce(new Vector2(0f, jumpForce));
+            if (canMove)
+            {
+                // Read the inputs.
+                //bool crouch = Input.GetKey(KeyCode.LeftControl);
+                float h = CrossPlatformInputManager.GetAxis("Horizontal");
+                // Pass all parameters to the character control script.
+                m_Character.Move(h, false, m_Jump);
+                m_Jump = false;
+            }
         }
     }
 }

@@ -3,8 +3,9 @@ using System.Collections;
 
 public abstract class DefaultMovement : MonoBehaviour
 {
-    [HideInInspector] public bool facingRight = true;
-    [HideInInspector] public bool canMove = true;
+    [HideInInspector]
+    public bool facingRight = true;
+    
 
     public float moveForce;
     public float maxSpeed;
@@ -19,7 +20,7 @@ public abstract class DefaultMovement : MonoBehaviour
         rgd2D = GetComponent<Rigidbody2D>();
     }
 
-    protected abstract float getAxis();
+    protected abstract float getAxis();    
 
     protected virtual void FixedUpdate()
     {
@@ -28,7 +29,7 @@ public abstract class DefaultMovement : MonoBehaviour
         // The Speed animator parameter is set to the absolute value of the horizontal input.
         anim.SetFloat("Speed", Mathf.Abs(h));
         // If the player is changing direction (h has a different sign to velocity.x) or hasn't reached maxSpeed yet...
-        if (Mathf.Abs(rgd2D.velocity.x) < maxSpeed && canMove)
+        if (Mathf.Abs(rgd2D.velocity.x) < maxSpeed)
         {
             // ... add a force to the player.
             rgd2D.AddForce(Vector2.right * h * moveForce, ForceMode2D.Force);
@@ -41,7 +42,7 @@ public abstract class DefaultMovement : MonoBehaviour
             rgd2D.velocity = new Vector2(Mathf.Sign(rgd2D.velocity.x) * (maxSpeed), rgd2D.velocity.y);
         }
         // If the input is moving the player right and the player is facing left...
-        if (canMove && (h > 0 && !facingRight) || (h < 0 && facingRight))
+        if ((h > 0 && !facingRight) || (h < 0 && facingRight))
             // ... flip the player.
             Flip();
     }
